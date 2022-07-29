@@ -16,5 +16,15 @@ namespace Semana2___proyecto_1_Formulario
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            label1.Text = "Hola, mi nombre es Cristian Josue";
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
